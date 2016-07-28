@@ -1,4 +1,3 @@
-layout_spectrum: 0.6817514149006456
 typography_spectrum: 0.03779466124251485
 color:
   brandStrength: 0.37470884062349796
@@ -11,5 +10,7 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
+layout_spectrum: 0.6817514149006456
 name: Woven Figure
+title: PostmodernHR
 description: Objects In Mirror Are Behind You
