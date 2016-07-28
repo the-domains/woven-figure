@@ -10,7 +10,13 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
+opengraph:
+  image: null
 layout_spectrum: 0.6817514149006456
-name: Woven Figure
+author:
+  name: Bennett Reddin
+  email: breddin@acm.org
+  url: www.cloudmills.com
+name: HR and Technology and HRTechnology
 title: PostmodernHR
 description: Objects In Mirror Are Behind You
